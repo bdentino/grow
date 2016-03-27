@@ -1,8 +1,8 @@
 {
   "name": "grow",
-  "repo": "matthewmueller/grow",
+  "repo": "bdentino/grow",
   "description": "grow textareas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "textarea",
     "grow",
@@ -10,7 +10,7 @@
     "resize"
   ],
   "dependencies": {
-    "ianstormtaylor/css": "0.3.x",
+    "bdentino/css": "0.3.2",
     "component/event": "0.x"
   },
   "development": {},
